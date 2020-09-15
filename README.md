@@ -5,4 +5,4 @@ it's a common snake game for our coursework
 C++
 
 # Credits
-Made by team. Copyright (C) 2016 Christoper Glorian, Henrich Reagan, Maria Vanessa Salim. All Rights Reserved.
+Made by team. Copyright (C) 2017 Christoper Glorian, Henrich Reagan, Maria Vanessa Salim. All Rights Reserved.
